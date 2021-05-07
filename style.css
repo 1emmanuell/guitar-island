@@ -153,7 +153,8 @@ margin-right: 10px;
 padding-right: 1rem; !important
 	}
 .course-img{height: 310px;}
-.review-grp{flex: 50%;}
+.review-grp{flex: 50%;
+	padding-top: 10%;}
 .course-sec{margin-bottom: 14% !important;
 			
 			}
