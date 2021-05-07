@@ -483,6 +483,10 @@ footer{
 	background-color: red;
 }
 
+.base-footer{
+display:  flex;
+}
+
 .footers{
 	display: flex;
 	justify-content: space-around;
