@@ -469,7 +469,7 @@ form{
 	
 }
 
-p.copyright {
+.copyright {
     display: flex;
     justify-content: flex-start;
     align-items: center;
