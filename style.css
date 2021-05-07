@@ -150,10 +150,11 @@ margin-right: 10px;
 
 @media only screen and (max-width: 425px) {
 .fa-facebook:before {
-padding-right: 1rem; }
-	.course-img{height: 310px;}
-	.review-grp{flex: 50%;}
-	.course-sec{margin-bottom: 14% !important;
+padding-right: 1rem; !important
+	}
+.course-img{height: 310px;}
+.review-grp{flex: 50%;}
+.course-sec{margin-bottom: 14% !important;
 			
 			}
 	.course-main{padding-bottom: 2%;}
