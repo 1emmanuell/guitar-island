@@ -150,8 +150,7 @@ margin-right: 10px;
 
 @media only screen and (max-width: 425px) {
 .fa-facebook:before {
-padding-right: 1rem; !important
-	}
+padding-right: 1rem; }
 .course-img{height: 310px;}
 .review-grp{flex: 50%;
 	padding-top: 10%;}
@@ -477,6 +476,7 @@ form{
     font-size: 19px;
     align-content: center;
     flex-direction: row;
+padding-left: 1rem;
 }
 	
 footer{
@@ -484,7 +484,10 @@ footer{
 }
 
 .base-footer{
-display:  flex;
+display: flex;
+    align-content: center;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 .footers{
@@ -494,12 +497,12 @@ display:  flex;
 	font-size: 1.5vw;
 	font-weight: 300;
 }
-.social-link{
-	display: flex;
-	justify-content: flex-end;
-	align-items: center;
-	padding: 0px 0px 20px 0px;
-	font-size: 23px;
+.social-link {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px 30px 20px 0px;
+    font-size: 23px;
 }
 
 .social-link p{
