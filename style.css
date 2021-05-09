@@ -89,6 +89,17 @@ nav{
 	color: yellow !important;
 }
 
+
+@media only screen and (max-width: 425px) { 
+	.social-link {
+		padding: 0px 0px 20px 0px;
+	}
+	.fa-facebook:before {
+    padding-right: 1rem; 
+}
+}
+
+
 .fa-bars {display: none; !important}
 
 .fa-bars {font-size: 2.2rem;}!important
